@@ -95,7 +95,7 @@ Once the ParallelCluster configuration file has been generated, you can create t
 pcluster create-cluster -c cluster-config.yaml -n accounting-demo-cluster
 ```
 
-### Slurm Job Accounting
+###Slurm Job Accounting
 
 Once the cluster has been created, log in and verfiy that job accounting has been configured:
 
